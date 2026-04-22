@@ -1,1 +1,13 @@
-# meu-primeiro-repositorio
+# Meu Primeiro Repositório
+
+## Sobre mim
+Nome: EDUARDO HENRIQUE DE OLIVEIRA
+Curso: ENGENHARIA DE SOFTWARE
+
+## Objetivo
+Aprender a usar o GitHub para versionamento de código.
+
+## O que estou aprendendo
+- Git
+- GitHub
+- Versionamento
